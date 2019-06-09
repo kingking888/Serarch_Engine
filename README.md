@@ -10,9 +10,15 @@ scrapy  crawl  jobbole
 
 **careful**  
 make sure you elasticsearch installation is complete  
-_____
 You can download it from my repository,use git or download zip   
-Here are my explanations of the three repository
-elasticsearch-rtf:Search Engines,like  mysql or  mongo  
+_____
+
+Here are my explanations of the three repository  
+**elasticsearch-rtf**:Search Engines,like  mysql or  mongo  
+
+**elasticsearch-head**:a Visualization Tool,like navicat for mysql
+
+**elasticsearch-dsl-py**:API interface for connecting es and  Complete Search Suggestions
+
 
 
