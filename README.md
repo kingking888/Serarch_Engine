@@ -2,11 +2,11 @@
 ### download
 `git clone  https://github.com/heqiang/Serarch_Engine.git`
 ### step1
-run setting.py
+run setting.py  
 *Generating corresponding mapping fields in ES*
 ### step2
 scrapy  crawl  jobbole
-
+_____
 
 **careful**  
 make sure you elasticsearch installation is complete  
